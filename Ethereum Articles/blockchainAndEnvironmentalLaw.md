@@ -63,16 +63,16 @@ Ethereum’s transition to Proof-of-Stake (PoS) provides a concrete example of h
 Since the Ethereum Foundation is making strides to comply with global environmental standards and align with the United Nations definition of sustainability, governments and regulators now have a unique opportunity to foster sustainable blockchain practices on a broader scale. , Drawing from the United Nations Sustainable Development Goals (SDGs), policies can align with global sustainability objectives by incentivizing clean energy adoption and regulating the environmental impact of blockchain networks.
 <ol type="1">
 <li> Incentivizing Innovation:</li>
--	Offer tax breaks or grants to blockchain networks that adopt energy-efficient consensus mechanisms, like incentives for renewable energy adoption in other industries.
+-	Offer tax breaks or grants to blockchain networks that adopt energy-efficient consensus mechanisms, like incentives for renewable energy adoption in other industries.<br>
 -	Promote research and development into further advancements in blockchain efficiency, including hybrid models that reduce energy reliance.
 
 
 <li>Global Standards for Emissions:</li>
--	Implement standardized reporting requirements for blockchain networks to disclose their energy consumption and carbon emissions, ensuring transparency.
+-	Implement standardized reporting requirements for blockchain networks to disclose their energy consumption and carbon emissions, ensuring transparency.<br>
 -	Create international agreements modeled after Ethereum’s PoS transition, encouraging other blockchain platforms to adopt sustainable practices.
 
 <li> Leveraging Ethereum’s Model:</li>
--	Ethereum’s transition demonstrates the feasibility of shifting from PoW to PoS at scale, without compromising security or functionality. Regulators can use this as a case study to establish clear pathways for compliance, ensuring other blockchain networks follow suit.
+-	Ethereum’s transition demonstrates the feasibility of shifting from PoW to PoS at scale, without compromising security or functionality. Regulators can use this as a case study to establish clear pathways for compliance, ensuring other blockchain networks follow suit.<br>
 -	By integrating sustainability compliance into blockchain governance structures, platforms can align their operations with the SDGs and climate action goals.
 </ol>
 
@@ -86,7 +86,7 @@ By leveraging Ethereum’s example, stakeholders can shape a regulatory landscap
 <li> Sustainability and Environmental Associate at The Cloud Attorneys, Barrister and Solicitor of the Supreme Court of Nigera, DEVCON Legal Scholar, M.A Governance and Public Policy, University of Passau.</li>
 <li>Senator Ed Markey, https://x.com/SenMarkey/status/1633249925398970369?lang=en Accessed 20 December 2024.</li>
 <li>Cambridge Bitcoin Electricity Consumption Index, https://ccaf.io/cbnsi/cbeci Accessed 20 December 2024. </li>
-<li>Energy Box, https://www.energy-box.com/post/ thailand-s-electricity-consumption-has-reached-an-all-time-high-for-the-third-time-while-the-electr  Accessed 20 December 2024.</li>
+<li>Energy Box, https://www.energy-box.com/post/thailand-s-electricity-consumption-has-reached-an-all-time-high-for-the-third-time-while-the-electr  Accessed 20 December 2024.</li>
 <li>Final Energy Consumption of the industrial sector in Argentina from 2012-2022, https://www.statista.com/statistics/1401136/electricity-consumption-argentina-industrial-sector/, Accessed 20 December 2024 </li>
 <li>Aya Miyaguchi, “Redefining boundaries in the Infinite Garden”, https://www.youtube.com/watch?v=SE15rsPVHz0, Accessed 20 December 2024.</li>
 <li>United Nations, https://sdgs.un.org/goals/goal7, Accessed 20 December 2024. </li>
