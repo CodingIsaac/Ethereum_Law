@@ -1,5 +1,6 @@
+<html>
 <h> The Intersection of Blockchain and Environmental Law: Lessons from Ethereum's Transition to Eco-Friendly Technology.</h1>
-<h2> Author: *Isaac Ijuo* </h2>
+<h2> Author: <em>Isaac Ijuo</em> </h2>
 <p>
 <img src="/Images/sustainability.jpeg">
 
@@ -44,15 +45,17 @@ The differences between Pow and PoS are further examined in the table below.
         <td>Examples</td>
         <td>Bitcoin, Litecoin</td>
         <td>Ethereum (post-transition), Cardano</td>
-        <td>
-
+    </tr>
 </table>
 		
-Technical Overview of Ethereum’s Transition
+<h2>Technical Overview of Ethereum’s Transition</h2>
 Ethereum’s transition from PoW to PoS, known as The Merge, was finalized in September 2022 after years of research and development. Vitakin Buterin mentioned that the idea was conceived as far back as 2017. The upgrade replaced Ethereum’s PoW mechanism with a PoS model that relies on validators staking their ETH (in this case 32 ETH) to participate in transaction validation, There are claims that the minimum staking requirement for validators may drop to as low as 1 ETH in the future. This transition required the integration of Ethereum’s existing PoW chain with the Beacon Chain, a parallel PoS network launched in 2020, marking the culmination of a multi-phase upgrade. 
-Legal and Regulatory Dimensions
+
+<h2>Legal and Regulatory Dimensions</h2>
+<img src="/Images/environmentandlaw.jpeg">
+
 At the core of environmental law are critical principles that address climate change and emissions, energy use and resource management, and environmental justice. These pillars form the foundation of legal frameworks designed to mitigate environmental degradation while ensuring equitable access to natural resources. Side by Side, the United Nations Sustainable Development Goals (SDGs) emphasize complementary sustainability objectives, including Affordable and Clean Energy (SDG 7) , Climate Action (SDG 13) , Responsible Consumption and Production (SDG 12) , and Partnerships for the Goals (SDG 17) 
-So the environmental footprint of blockchain networks, especially those using the Proof-of-Work (PoW) consensus mechanism, has exposed significant gaps in existing environmental laws. Current frameworks often focus on centralized entities, overlooking decentralized systems like Bitcoin and Ethereum (pre-Merge). Laws governing energy use and emissions reporting struggle to account for the global and decentralized nature of blockchain operations, where mining activities may span multiple jurisdictions with varying environmental standards.
+Although at the moment, the environmental footprint of blockchain networks, especially those using the Proof-of-Work (PoW) consensus mechanism, has exposed significant gaps in existing environmental laws. Current frameworks often focus on centralized entities, overlooking decentralized systems like Bitcoin and Ethereum (pre-Merge). Laws governing energy use and emissions reporting struggle to account for the global and decentralized nature of blockchain operations, where mining activities may span multiple jurisdictions with varying environmental standards.
 Ethereum’s transition to Proof-of-Stake (PoS) provides a concrete example of how blockchain networks can align with environmental regulations. By reducing its energy consumption by over 99.95%, Ethereum no longer contributes significantly to greenhouse gas emissions. This makes it a model for compliance with international climate agreements, such as the Paris Agreement, which calls for reductions in carbon emissions across industries.
 Policy Recommendations
 More than ever before, governments and regulators have a pivotal role to play in fostering sustainable blockchain practices. Drawing from the United Nations Sustainable Development Goals (SDGs), policies can align with global sustainability objectives by incentivizing clean energy adoption and regulating the environmental impact of blockchain networks.
@@ -70,5 +73,6 @@ Ethereum’s transition to PoS marks a significant milestone in the blockchain i
 By leveraging Ethereum’s example, stakeholders can shape a regulatory landscape that balances technological progress with environmental stewardship. As blockchain continues to integrate into various sectors, its alignment with environmental laws will not only enhance its credibility but also ensure its role in a sustainable, decentralized future.
 
 </p>
+</html>
 
 
