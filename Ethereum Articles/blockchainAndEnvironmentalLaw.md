@@ -1,6 +1,6 @@
 <html>
-<h> The Intersection of Blockchain and Environmental Law: Lessons from Ethereum's Transition to Eco-Friendly Technology.</h1>
-<h2> Author: <em>Isaac Ijuo</em> </h2>
+<h1> The Intersection of Blockchain and Environmental Law: Lessons from Ethereum's Transition to Eco-Friendly Technology.</h1>
+<h2> Author: Isaac Ijuo </h2>
 <p>
 <img src="/Images/the_inifinite_garden.jpeg">
 
