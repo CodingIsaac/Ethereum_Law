@@ -57,8 +57,10 @@ Ethereum’s transition from PoW to PoS, known as The Merge, was finalized in Se
 At the core of environmental law are critical principles that address climate change and emissions, energy use and resource management, and environmental justice. These pillars form the foundation of legal frameworks designed to mitigate environmental degradation while ensuring equitable access to natural resources. Side by Side, the United Nations Sustainable Development Goals (SDGs) emphasize complementary sustainability objectives, including Affordable and Clean Energy (SDG 7) , Climate Action (SDG 13) , Responsible Consumption and Production (SDG 12) , and Partnerships for the Goals (SDG 17) 
 Although at the moment, the environmental footprint of blockchain networks, especially those using the Proof-of-Work (PoW) consensus mechanism, has exposed significant gaps in existing environmental laws. Current frameworks often focus on centralized entities, overlooking decentralized systems like Bitcoin and Ethereum (pre-Merge). Laws governing energy use and emissions reporting struggle to account for the global and decentralized nature of blockchain operations, where mining activities may span multiple jurisdictions with varying environmental standards.
 Ethereum’s transition to Proof-of-Stake (PoS) provides a concrete example of how blockchain networks can align with environmental regulations. By reducing its energy consumption by over 99.95%, Ethereum no longer contributes significantly to greenhouse gas emissions. This makes it a model for compliance with international climate agreements, such as the Paris Agreement, which calls for reductions in carbon emissions across industries.
-Policy Recommendations
-More than ever before, governments and regulators have a pivotal role to play in fostering sustainable blockchain practices. Drawing from the United Nations Sustainable Development Goals (SDGs), policies can align with global sustainability objectives by incentivizing clean energy adoption and regulating the environmental impact of blockchain networks.
+
+<h2> Policy Recommendations </h2>
+<img src="/Images/ethereum.jpeg">
+Since the Ethereum Foundation is making strides to comply with global environmental standards and align with the United Nations definition of sustainability, governments and regulators now have a unique opportunity to foster sustainable blockchain practices on a broader scale. , Drawing from the United Nations Sustainable Development Goals (SDGs), policies can align with global sustainability objectives by incentivizing clean energy adoption and regulating the environmental impact of blockchain networks.
 1.	Incentivizing Innovation:
 -	Offer tax breaks or grants to blockchain networks that adopt energy-efficient consensus mechanisms, like incentives for renewable energy adoption in other industries.
 -	Promote research and development into further advancements in blockchain efficiency, including hybrid models that reduce energy reliance.
@@ -68,7 +70,8 @@ More than ever before, governments and regulators have a pivotal role to play in
 3.	Leveraging Ethereum’s Model:
 -	Ethereum’s transition demonstrates the feasibility of shifting from PoW to PoS at scale, without compromising security or functionality. Regulators can use this as a case study to establish clear pathways for compliance, ensuring other blockchain networks follow suit.
 -	By integrating sustainability compliance into blockchain governance structures, platforms can align their operations with the SDGs and climate action goals.
-Conclusion
+
+<h2>Conclusion</h2>
 Ethereum’s transition to PoS marks a significant milestone in the blockchain industry’s pursuit of sustainability, proving that eco-conscious innovation is possible without sacrificing functionality or security. However, realizing the full potential of sustainable blockchain technology requires a collaborative approach between technologists, policymakers, and environmental advocates.
 By leveraging Ethereum’s example, stakeholders can shape a regulatory landscape that balances technological progress with environmental stewardship. As blockchain continues to integrate into various sectors, its alignment with environmental laws will not only enhance its credibility but also ensure its role in a sustainable, decentralized future.
 
