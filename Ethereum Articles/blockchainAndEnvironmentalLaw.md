@@ -81,6 +81,19 @@ Since the Ethereum Foundation is making strides to comply with global environmen
 Ethereum’s transition to PoS marks a significant milestone in the blockchain industry’s pursuit of sustainability, proving that eco-conscious innovation is possible without sacrificing functionality or security. However, realizing the full potential of sustainable blockchain technology requires a collaborative approach between technologists, policymakers, and environmental advocates.
 By leveraging Ethereum’s example, stakeholders can shape a regulatory landscape that balances technological progress with environmental stewardship. As blockchain continues to integrate into various sectors, its alignment with environmental laws will not only enhance its credibility but also ensure its role in a sustainable, decentralized future.
 
+<h2> References </h2>
+<ol type="a">
+<li> Sustainability and Environmental Associate at The Cloud Attorneys, Barrister and Solicitor of the Supreme Court of Nigera, DEVCON Legal Scholar, M.A Governance and Public Policy, University of Passau.</li>
+<li>Senator Ed Markey, https://x.com/SenMarkey/status/1633249925398970369?lang=en Accessed 20 December 2024.</li>
+<li>Cambridge Bitcoin Electricity Consumption Index, https://ccaf.io/cbnsi/cbeci Accessed 20 December 2024. </li>
+<li>Energy Box, https://www.energy-box.com/post/ thailand-s-electricity-consumption-has-reached-an-all-time-high-for-the-third-time-while-the-electr  Accessed 20 December 2024.</li>
+<li>Final Energy Consumption of the industrial sector in Argentina from 2012-2022, https://www.statista.com/statistics/1401136/electricity-consumption-argentina-industrial-sector/, Accessed 20 December 2024 </li>
+<li>Aya Miyaguchi, “Redefining boundaries in the Infinite Garden”, https://www.youtube.com/watch?v=SE15rsPVHz0, Accessed 20 December 2024.</li>
+<li>United Nations, https://sdgs.un.org/goals/goal7, Accessed 20 December 2024. </li>
+<li>United Nations, https://sdgs.un.org/goals/goal12 Accessed 20 December 2024. </li>
+
+</ol>
+
 </p>
 </html>
 
