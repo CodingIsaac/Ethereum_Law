@@ -10,16 +10,44 @@ At the center of this debate lies a critical question: how sustainable are the c
 
 According to live data from the Cambridge Bitcoin Electricity Consumption Index (CBECI), the Bitcoin network’s estimated power demand is approximately 21.10 gigawatts (GW), where a gigawatt equals one billion watts of power . This translates to an annualized electricity consumption of 184.97 terawatt-hours (TWh), with a terawatt-hour representing one trillion watts consumed over the course of an hour. This energy usage is comparable to the annual electricity consumption of mid-sized nations like Thailand  or Argentina . The network's theoretical lower bound is 10.72 GW (94.00 TWh annually), while the upper bound reaches 49.01 GW (429.59 TWh annually). Furthermore, the energy efficiency of Bitcoin mining hardware is estimated at 24.43 joules per terahash (J/TH), with theoretical bounds ranging from 13.52 J/TH (most efficient) to 52.00 J/TH (least efficient). These metrics highlight the significant energy demands of Bitcoin mining and the pressing need for increased efficiency to mitigate its environmental impact. 
 
-Amid this growing scrutiny, Ethereum’s successful transition to a Proof-of-Stake (PoS) model represents a watershed moment for blockchain sustainability. At the just concluded Ethereum Foundation DEVCON 7, the Ethereum Foundation confirmed that Ethereum now consumes over 99.95% less energy, making it the first major blockchain to achieve sustainability compliance.  This pivotal shift not only addresses long-standing criticisms of blockchain’s environmental impact but also sets a precedent for how the industry can align with global sustainability goals. 
-<h2> Brief Comparison of PoW vs. PoS </h2>
-While PoW systems are energy-intensive by design, Proof-of-Stake (PoS) offers a more energy-efficient alternative. In PoS, validators are selected based on the number of tokens they hold and are willing to "stake" as collateral, eliminating the need for computational competition. This method drastically reduces energy requirements without compromising security or decentralization. 
-The differences between Pow and PoS are further examined in the table below.
-Feature	Proof-of-Work (PoW)	Proof-of-Stake (PoS)
-Energy Consumption	Extremely high (energy-intensive mining)	Minimal (validators require basic computing)
-Validation Process	Mining cryptographic puzzles	Staking tokens to participate
-Environmental Impact	High carbon emissions	Low carbon footprint
-Examples	Bitcoin, Litecoin	Ethereum (post-transition), Cardano
+<img src="/Images/pow_pos.jpeg">
 
+Amid this growing scrutiny, Ethereum’s successful transition to a Proof-of-Stake (PoS) model represents a watershed moment for blockchain sustainability. At the just concluded Ethereum Foundation DEVCON 7, the Ethereum Foundation confirmed that Ethereum now consumes over 99.95% less energy, making it the first major blockchain to achieve sustainability compliance.  This pivotal shift not only addresses long-standing criticisms of blockchain’s environmental impact but also sets a precedent for how the industry can align with global sustainability goals. 
+
+<h2> Brief Comparison of PoW vs. PoS </h2>
+
+While PoW systems are energy-intensive by design, Proof-of-Stake (PoS) offers a more energy-efficient alternative. In PoS, validators are selected based on the number of tokens they hold and are willing to "stake" as collateral, eliminating the need for computational competition. This method drastically reduces energy requirements without compromising security or decentralization. 
+
+The differences between Pow and PoS are further examined in the table below.
+<table>
+    <tr>
+        <th>Feature</th>
+        <th>Proof-of-Work (PoW)</th>
+        <th>Proof-of-Stake (PoS)</th>
+    </tr>
+    <tr> 
+        <td>Energy Consumption</td>
+        <td>Extremely high (energy-intensive mining)</td>
+        <td>Minimal (validators require basic computing)</td>
+    </tr>
+    <tr>
+        <td>Validation Process</td>
+        <td>Mining cryptographic puzzles</td>
+        <td>Staking tokens to participate</td>
+    </tr>
+    <tr>
+        <td>Environmental Impact</td>
+        <td>High carbon emissions</td>
+        <td>Low carbon footprint</td>
+    </tr>
+    <tr>
+        <td>Examples</td>
+        <td>Bitcoin, Litecoin</td>
+        <td>Ethereum (post-transition), Cardano</td>
+        <td>
+
+</table>
+		
 Technical Overview of Ethereum’s Transition
 Ethereum’s transition from PoW to PoS, known as The Merge, was finalized in September 2022 after years of research and development. Vitakin Buterin mentioned that the idea was conceived as far back as 2017. The upgrade replaced Ethereum’s PoW mechanism with a PoS model that relies on validators staking their ETH (in this case 32 ETH) to participate in transaction validation, There are claims that the minimum staking requirement for validators may drop to as low as 1 ETH in the future. This transition required the integration of Ethereum’s existing PoW chain with the Beacon Chain, a parallel PoS network launched in 2020, marking the culmination of a multi-phase upgrade. 
 Legal and Regulatory Dimensions
