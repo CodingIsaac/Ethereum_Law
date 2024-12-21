@@ -50,11 +50,11 @@ The differences between Pow and PoS are further examined in the table below.
 		
 <h2>Technical Overview of Ethereum’s Transition</h2>
 Ethereum’s transition from PoW to PoS, known as The Merge, wasn't an overnight decision, it was a woven, multifaceted and multi year process, requiring several iterations, testing and analysis:
-
-**2017**: Ethereum's founder, Vitalik Buterin announced plans to transition to PoS.
-**2020**: Ethereum 2.0's Beacon Chain launched laying the foundation for PoS by running alonside the existing Pow network.
-**2022**: In September 2022 after years of research and development, "The Merge" officially took place combining the PoW and PoS into a single PoS-based Ethereum network.  The PoS model relies on validators staking their ETH (in this case 32 ETH) to participate in transaction validation. However, Vitalik mentioned at DEVCON that he looks forward to having a minimum of 1 ETH staking requirement for validators. 
-
+<ol type ="->">
+<li>2017:</li> Ethereum's founder, Vitalik Buterin announced plans to transition to PoS.
+<li>2020:</li> Ethereum 2.0's Beacon Chain launched laying the foundation for PoS by running alonside the existing Pow network.
+<li>2022:</li> In September 2022 after years of research and development, "The Merge" officially took place combining the PoW and PoS into a single PoS-based Ethereum network.  The PoS model relies on validators staking their ETH (in this case 32 ETH) to participate in transaction validation. However, Vitalik mentioned at DEVCON that he looks forward to having a minimum of 1 ETH staking requirement for validators. 
+</ol>
 <h2>Environmental Impacts of Ethereum PoS</h2>
 Indeed, the environmental benefits of PoS extend beyond energy efficiency. A lifecycle assessment of Ethereum reveals a reduced impact at every stage of its operation and it includes:
 <img src="/Images/ethereum.jpeg> //change later.
