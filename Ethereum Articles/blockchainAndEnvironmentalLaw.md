@@ -58,7 +58,8 @@ Ethereum’s transition from PoW to PoS, known as The Merge, wasn't an overnight
 </ol>
 <h2>Environmental Impacts of Ethereum PoS</h2>
 Indeed, the environmental benefits of PoS extend beyond energy efficiency. A lifecycle assessment of Ethereum reveals a reduced impact at every stage of its operation and it includes:
-<img src="/Images/zero_waste.jpeg>
+
+<img src="/Images/zero_waste.jpeg">
 
 <ol type ="*">
 <li> Hardware and Infrastructure:
@@ -128,7 +129,7 @@ By leveraging Ethereum’s example, stakeholders can shape a regulatory landscap
 <li>Energy Box, https://www.energy-box.com/post/thailand-s-electricity-consumption-has-reached-an-all-time-high-for-the-third-time-while-the-electr  Accessed 20 December 2024.</li>
 <li>Final Energy Consumption of the industrial sector in Argentina from 2012-2022, https://www.statista.com/statistics/1401136/electricity-consumption-argentina-industrial-sector/, Accessed 20 December 2024 </li>
 <li>Aya Miyaguchi, “Redefining boundaries in the Infinite Garden”, https://www.youtube.com/watch?v=SE15rsPVHz0, Accessed 20 December 2024.</li>
-<li> Vitalik Buterin, "Ethereum in 30 Minutes", Accessed 20 December 2024. </li>
+<li> Vitalik Buterin, "Ethereum in 30 Minutes", https://www.youtube.com/watch?v=ei3tDRMjw6k Accessed 20 December 2024. </li>
 <li>United Nations, https://sdgs.un.org/goals/goal7, Accessed 20 December 2024. </li>
 <li>United Nations, https://sdgs.un.org/goals/goal12 Accessed 20 December 2024. </li>
 
