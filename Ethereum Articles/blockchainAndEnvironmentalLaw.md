@@ -9,7 +9,7 @@ At the center of this debate lies a critical question: <em>how sustainable are t
 
 <img src="/Images/energyConsumption.jpeg.png"> 
 <h2>Past CO2 Emissions from Crypto Mining</h2>
-Data shows that in 2021 only, crypto mining comprised 0.9% of global electricity use and 0.33% of global emissions. At 220 terawatt per hour, in 2021, crypto mining demanded around as much electricity as Australia or Spain. One Bitcoin transaction required the equivalent electricity consumption of a typical individual from Ghana or Pakistan for 3 years. And in 2022, crypto mining and data centers accounted for 2 percent of world electricity, and metrics indicates that this is likely to increase by 3.5% in five years according to the International Energy Agency projections, this level of energy consumption will be equilavent to current consumption of Japan (the world's fifth largest electricity user). In 2024,according to live data from the Cambridge Bitcoin Electricity Consumption Index (CBECI), only Bitcoin network’s estimated power demand is approximately 21.10 gigawatts (GW), where a gigawatt equals one billion watts of power . This translates to an annualized electricity consumption of 184.97 terawatt-hours (TWh), with a terawatt-hour representing one trillion watts consumed over the course of an hour, amazing right? This energy usage is comparable to the annual electricity consumption of mid-sized nations like Thailand  or Argentina. These highlights the significant energy demands of Bitcoin and crypto-mining, and indeed calls for the pressing need for energy efficiency to mitigate its environmental impact. 
+Data shows that in 2021 only, crypto mining comprised 0.9% of global electricity use and 0.33% of global emissions. At 220 terawatt per hour, in 2021, crypto mining demanded around as much electricity as Australia or Spain. One Bitcoin transaction required the equivalent electricity consumption of a typical individual from Ghana or Pakistan for 3 years. And in 2022, crypto mining and data centers accounted for 2 percent of world electricity, and metrics indicates that this is likely to increase by 3.5% in five years according to the International Energy Agency projections, this level of energy consumption will be equilavent to current consumption of Japan (the world's fifth largest electricity user). In 2024,according to live data from the Cambridge Bitcoin Electricity Consumption Index (CBECI), only Bitcoin network’s estimated power demand is approximately 21.10 gigawatts (GW), where a gigawatt equals one billion watts of power . This translates to an annualized electricity consumption of 184.97 terawatt-hours (TWh), with a terawatt-hour representing one trillion watts consumed over the course of an hour, amazing right? This energy usage is comparable to the annual electricity consumption of mid-sized nations like Thailand  or Argentina. These highlights the significant energy demands of Bitcoin and crypto-mining, and indeed calls for the pressing need for energy efficiency to mitigate its environmental impact. <br>
 
 <img src="/Images/pow_pos.jpeg">
 
@@ -50,14 +50,14 @@ The differences between Pow and PoS are further examined in the table below.
 		
 <h2>Technical Overview of Ethereum’s Transition</h2>
 Ethereum’s transition from PoW to PoS, known as The Merge, wasn't an overnight decision, it was a woven, multifaceted and multi year process, requiring several iterations, testing and analysis:
-<ol type ="->">
+<ol type ="*">
 <li>2017:</li> Ethereum's founder, Vitalik Buterin announced plans to transition to PoS.
 <li>2020:</li> Ethereum 2.0's Beacon Chain launched laying the foundation for PoS by running alonside the existing Pow network.
 <li>2022:</li> In September 2022 after years of research and development, "The Merge" officially took place combining the PoW and PoS into a single PoS-based Ethereum network.  The PoS model relies on validators staking their ETH (in this case 32 ETH) to participate in transaction validation. However, Vitalik mentioned at DEVCON that he looks forward to having a minimum of 1 ETH staking requirement for validators. 
 </ol>
 <h2>Environmental Impacts of Ethereum PoS</h2>
 Indeed, the environmental benefits of PoS extend beyond energy efficiency. A lifecycle assessment of Ethereum reveals a reduced impact at every stage of its operation and it includes:
-<img src="/Images/ethereum.jpeg> //change later.
+<img src="/Images/zero_waste.jpeg>
 
 <ol type ="*">
 <li> Hardware and Infrastructure:
