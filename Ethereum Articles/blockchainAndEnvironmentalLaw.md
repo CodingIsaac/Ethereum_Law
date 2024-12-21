@@ -62,7 +62,7 @@ Indeed, the environmental benefits of PoS extend beyond energy efficiency. A lif
 
 <ol type ="*">
 <li> Hardware and Infrastructure:
-As mentioned earlier, under PoW, Ethereum miners relied solely on expensive, energy-intensive hardware, however PoS eliminated the need for mining rigs, allowing validators to operate with general-purpose computers. This change brought about:
+As mentioned earlier, under PoW, Ethereum miners relied solely on expensive, energy-intensive hardware, however PoS eliminated the need for mining rigs, allowing validators to operate with general-purpose computers. This change brought about:<br>
 - Decreased demand for specialized hardware.<br>
 - Reduced e-waste from discarded mining equipment.<br>
 - Allowed validators to use existing infrastructure, further lowering environmental impact.<br>
@@ -71,13 +71,10 @@ As mentioned earlier, under PoW, Ethereum miners relied solely on expensive, ene
 With PoS, Ethereum’s operational energy requirements dropped dramatically. Validators no longer compete for computational dominance, and the network consumes a fraction of the electricity it once did. This improvement directly reduces the carbon footprint of Ethereum operations.
 </li>
 <li> Proper End-of-Life Management:
-Before now, Blockchain networks often face criticism for their contribution to e-waste, through the disposal of non-recyclabe hardwares.However, Ethereum’s PoS mechanism extends the lifecycle of hardware by removing the need for frequent upgrades. 
+Before now, Blockchain networks often face criticism for their contribution to e-waste, through the disposal of non-recyclable  hardwares However, Ethereum’s PoS mechanism extends the lifecycle of hardware by removing the need for frequent upgrades. 
 
 </li>
 </ol>
-
-
-
 
 <h2>Legal and Regulatory Dimensions</h2>
 <img src="/Images/environmentandlaw.jpeg">
@@ -110,6 +107,7 @@ Ethereum’s PoS model sets a benchmark for green blockchain practices. Governme
 
 Ethereum’s PoS model sets a benchmark for green blockchain practices. Governments and industry groups could create certification programs to:
 <br>
+
 - Ethereum’s transition demonstrates the feasibility of shifting from PoW to PoS at scale, without compromising security or functionality. Regulators can use this as a case study to establish clear pathways for compliance, ensuring other blockchain networks follow suit.<br>
 -  By integrating sustainability compliance into blockchain governance structures, platforms can align their operations with the SDGs and climate action goals.
 
@@ -122,7 +120,7 @@ By leveraging Ethereum’s example, stakeholders can shape a regulatory landscap
 
 <h2> References </h2>
 <ol type="a">
-<li> Sustainability and Environmental Associate at The Cloud Attorneys, https://www.thecloudattorneys.com, Barrister and Solicitor of the Supreme Court of Nigera, DEVCON Legal Scholar, M.A Governance and Public Policy, University of Passau.</li>
+<li> Sustainability and Environmental Associate at The Cloud Attorneys, https://www.thecloudattorneys.com, Barrister and Solicitor of the Supreme Court of Nigeria, DEVCON Legal Scholar, M.A Governance and Public Policy, University of Passau.</li>
 <li>Senator Ed Markey, https://x.com/SenMarkey/status/1633249925398970369?lang=en Accessed 20 December 2024.</li>
 <li>Electricity consumption data for Australia, Germany, Ghana, and Spain are taken from the IEA. Statistics of the IEA used in our analysis account only for direct CO2 emissions from electricity generation, and exclude emissions incurred to extract, process, and transport the fuels used for electricity generation. These indirect emissions are estimated to be around 15 percent of combustion emissions (Baunsgaard and Vernon, 2023)</li>
 <li>Shafik Hebous, Nate Vernon-Lin, "Carbon Emissions from AI and Crypto are Surging and Tax Policy can help." https://www.imf.org/en/Blogs/Articles/2024/08/15/carbon-emissions-from-ai-and-crypto-are-surging-and-tax-policy-can-help Accessed 20 December 2024.
