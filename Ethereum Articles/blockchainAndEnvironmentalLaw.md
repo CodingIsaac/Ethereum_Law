@@ -88,13 +88,14 @@ Ethereum’s transition to Proof-of-Stake (PoS) provides a concrete example of h
 <h2> Lessons from Ethereum's Transition and Policy Recommendations </h2>
 <img src="/Images/ethereum.jpeg">
 Since the Ethereum Foundation is making strides to comply with global environmental standards and align with the United Nations definition of sustainability, governments and regulators now have a unique opportunity to foster sustainable blockchain practices on a broader scale. Drawing from the United Nations Sustainable Development Goals (SDGs), policies can align with global sustainability objectives by incentivizing clean energy adoption and regulating the environmental impact of blockchain networks.
+<br>
 <ol type="1">
 <li> Incentivizing Innovation:</li>
 Policymakers can encourage blockchain networks to adopt renewable energy by:<br>
 
 -	Offer tax breaks or grants to blockchain networks that adopt energy-efficient consensus mechanisms, like incentives for renewable energy adoption in other industries.<br>
 -	Promote research and development into further advancements in blockchain efficiency, including hybrid models that reduce energy reliance.
-
+<br>
 
 <li>Establishing Global Standards for Emissions:</li>
 Ethereum’s PoS model sets a benchmark for green blockchain practices. Governments and industry groups could create certification programs to:<br>
@@ -102,7 +103,8 @@ Ethereum’s PoS model sets a benchmark for green blockchain practices. Governme
 -	Implement standard reporting requirements for blockchain networks to disclose their energy consumption and carbon emissions, ensuring transparency.<br>
 -	Create international agreements modeled after Ethereum’s PoS transition, encouraging other blockchain platforms to adopt sustainable practices.
 - Recognize blockchain networks with low environmental impact and promote sustainable consensus mechanisms like PoS over PoW.
-
+<br>
+<br>
 
 <li> Leveraging Ethereum’s Model:</li>
 
