@@ -104,8 +104,12 @@ Ethereum’s PoS model sets a benchmark for green blockchain practices. Governme
 
 
 <li> Leveraging Ethereum’s Model:</li>
--	Ethereum’s transition demonstrates the feasibility of shifting from PoW to PoS at scale, without compromising security or functionality. Regulators can use this as a case study to establish clear pathways for compliance, ensuring other blockchain networks follow suit.<br>
--	By integrating sustainability compliance into blockchain governance structures, platforms can align their operations with the SDGs and climate action goals.
+
+Ethereum’s PoS model sets a benchmark for green blockchain practices. Governments and industry groups could create certification programs to:
+<br>
+- Ethereum’s transition demonstrates the feasibility of shifting from PoW to PoS at scale, without compromising security or functionality. Regulators can use this as a case study to establish clear pathways for compliance, ensuring other blockchain networks follow suit.<br>
+-  By integrating sustainability compliance into blockchain governance structures, platforms can align their operations with the SDGs and climate action goals.
+
 </ol>
 
 <img src="/Images/sustainability.jpeg">
