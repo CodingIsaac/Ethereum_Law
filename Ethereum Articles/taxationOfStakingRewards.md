@@ -1,4 +1,4 @@
 <html>
 <h1>Staking Rewards and the Realization of Income: A Modern Dispute in Cryptocurrency Taxation </h1>
 <h2> Author: Isaac Ijuo </h2>
-<p>
+<p> Cryptocurrency staking has emerged as a popular mechanism for earning rewards while supporting blockchain networks. However, the taxation of these staking rewards has become a contentious legal issue, as demonstrated in the case of Jarrett v. United States. This article examines the legal and practical challenges surrounding the tax treatment of staking rewards, with a focus on the realization principle, IRS positions, procedural developments, and broader policy implications.</p>
