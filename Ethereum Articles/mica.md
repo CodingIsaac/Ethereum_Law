@@ -20,3 +20,10 @@ This article explores the scope, key compliance requirements, and the risks of n
 <p>With the goal of regulating and establishing a uniform framework throughout the EU, MiCA’s scope encompasses a diverse range of digital assets and services. However, before discussing the specific types of assets and services within its regulatory jurisdiction, it is important to understand how MiCA defines a “crypto-asset.”</p>
 <h3>What are Crypto-Assets as defined by MiCA?</h3>
 <P>Crypto-Assets are digital representation of a value or of a right that is able to be transferred and stored electronically using distributed ledger technology or similar technology.  Representations of value include external, non-intrinsic value attributed to a crypto-asset by the parties concerned or by market participants, meaning the value is subjective and based only on the interest of the purchaser of the crypto-assets. When used as a means of payment, crypto-assets can present opportunities in terms of cheaper, faster and more efficient payments, in particular on a cross-border basis, by limiting the number of intermediaries.</P>
+
+<h3>What are the Crypto-Assets Regulated by MiCA?</h3>
+<p>MiCA categorizes crypto-assets into three main types based on their intended purpose, associated risk and how their value, they are:</p>
+<ol>
+<li><b>E-Money Tokens:</b> 
+<p>These crypto-assets aim to stabilize their value by referencing a single official currency, such as the euro or dollar. It functions like electronic money and serves as electronic surrogates for coins and banknotes and are predominantly used for payments (Directive 2009/110/EC describes as electronic money).</p>
+</li>
