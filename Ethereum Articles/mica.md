@@ -30,3 +30,8 @@ This article explores the scope, key compliance requirements, and the risks of n
 <li><b>Asset-Referenced Tokens:</b> 
 <p>As referenced by the regulation, this covers all other crypto-assets, other than e-money tokens. The token value aims to stabilize their value by referencing other assets,  which may include fiat currencies, commodities, or baskets of assets. These tokens are however distinct from e-money tokens and cater to a wide array of use cases while ensuring future regulatory applicability.</p>
 </li>
+<li><b>Other Crypto-Assets:</b>
+<p>This category includes all other tokens that do not fall under the first two classifications. These could range from utility tokens,  which grant access to goods or services, to various innovative token types that do not have inherent stabilization mechanisms.</p>
+</ol>
+
+This classification system ensures that the regulation appropriately addresses the risks and functionalities associated with each type of crypto-asset, specifically apply rules and protections accordingly.
