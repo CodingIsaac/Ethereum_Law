@@ -15,3 +15,7 @@ To give the crypto-market managed risk and integrity, stakeholders, traders, hod
 5) The regulation seeks to support innovation and fair competition by making it easier for crypto businesses to comply whilst expanding. 
 
 This article explores the scope, key compliance requirements, and the risks of non-compliance under MiCA, offering actionable insights for crypto businesses</p>
+
+<h2>Scope of the Regulation:</h2>
+<p>With the goal of regulating and establishing a uniform framework throughout the EU, MiCA’s scope encompasses a diverse range of digital assets and services. However, before discussing the specific types of assets and services within its regulatory jurisdiction, it is important to understand how MiCA defines a “crypto-asset.”</p>
+<h3>What are Crypto-Assets as defined by MiCA?</h3>
