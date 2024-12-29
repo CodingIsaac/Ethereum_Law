@@ -27,3 +27,6 @@ This article explores the scope, key compliance requirements, and the risks of n
 <li><b>E-Money Tokens:</b> 
 <p>These crypto-assets aim to stabilize their value by referencing a single official currency, such as the euro or dollar. It functions like electronic money and serves as electronic surrogates for coins and banknotes and are predominantly used for payments (Directive 2009/110/EC describes as electronic money).</p>
 </li>
+<li><b>Asset-Referenced Tokens:</b> 
+<p>As referenced by the regulation, this covers all other crypto-assets, other than e-money tokens. The token value aims to stabilize their value by referencing other assets,  which may include fiat currencies, commodities, or baskets of assets. These tokens are however distinct from e-money tokens and cater to a wide array of use cases while ensuring future regulatory applicability.</p>
+</li>
