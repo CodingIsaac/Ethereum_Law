@@ -48,3 +48,6 @@ This classification system ensures that the regulation appropriately addresses t
 <li><b>Non-Transferable Assets:</b></li>
 <p> Digital assets that cannot be transferred to other holders or tokens limited to closed systems do not qualify as crypto-assets. Like loyalty points for a retailer or gaming tokens within a specific ecosystem, are also excluded.</p>
 </ol>
+
+<h2>Who does MiCA apply to?</h2>
+<p>The MiCA regulation applies to different participants within the crypto-asset ecosystem, including both natural and legal persons’  directly or indirectly. These includes crypto-asset services such as custody, trading, issuance, and advisory functions, whether these are performed fully or partially in a decentralized manner.  The regulation also covers issuers of crypto-assets,  who create or manage tokens offered to the public or admitted to trading, as well as offerors and individuals facilitating trading on platforms.  It also applies to Crypto-Asset Service Providers (CASPs),  including entities handling exchange, transfer, custody, and advisory services.</p>
