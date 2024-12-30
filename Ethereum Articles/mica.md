@@ -63,7 +63,7 @@ This classification system ensures that the regulation appropriately addresses t
 - Crypto-Assets Covered by Other EU Regulations:
     <p>
     <ol>
-        <li>Financial instruments </li>
+        <li>Financial instruments. </li>
         <li>Deposits, including structured deposits.</li>
         <li>Funds unless they qualify as e-money tokens.</li>
         <li>Securitization positions as defined under Regulation (EU) 2017/2402.</li>
@@ -75,3 +75,21 @@ This classification system ensures that the regulation appropriately addresses t
         <li>Social security schemes covered under Regulations (EC) No 883/2004 and (EC) No 987/2009.</li>
     </p>
     </ol>
+`<h2><b>What must crypto-businesses do?</b></h2>
+<p>A better part of the regulation is already in force and it’s best that companies immediately start to comply with it. To comply with MiCA, organizations must implement different compliance mechanisms aimed at fostering openness, accountability, and market integrity within the crypto-asset ecosystem. And some of which are:</p>
+<ol type="a">
+<li>The first step is always to evaluate whether your business activities or crypto-assets fall under MiCA’s scope of applicable entities and classify your assets accordingly (e.g., e-money tokens, asset-referenced tokens, etc.) as provided by the regulation.</li>
+<li>Register with National Competent Authorities (NCAs), providing governance frameworks, financial reports, and operational details. </li>
+<li>	The regulation now mandates crypto-businesses to draft a white paper, explaining your crypto-asset’s purpose, functionality, risks, and customers rights. The white paper and marketing communication should not contain unforeseen risk and should be fair, clear and not misleading and this should be submitted to NCAs before any public offering or trading.</li> 
+<li>The regulation pointed out that issuers of asset-referenced tokens should establish strong governance frameworks, ensuring management meets competence,  and integrity standards while implementing risk management and disaster recovery plans. </li>
+<li>All entities falling within the scope of the regulation must comply with applicable anti-money laundering (AML) regulation and counter-terrorism financing (CFT) financing rules, conducting customer due diligence and reporting suspicious activities. </li>
+<li>Maintain fully backed reserves for stable coins, asset-referenced tokens and ensure CASPs hold sufficient capital buffers to manage operational risks, and the pools of reserves shall be managed separately. </li>
+<li>To cover their liability against holders of asset-referenced tokens, issuers of asset-referenced tokens should constitute and maintain a reserve of assets matching the risks reflected in such liability. The reserve of assets should be used for the benefit of the holders of the asset-referenced tokens when the issuer is not able to fulfil its obligations towards the holders, such i.e. insolvency.</li> 
+<li>Crypto-businesses are mandated to protect consumers by providing transparent information about services, pricing risks, and to establish accessible complaint-handling procedures, especially from holders of asset-referenced tokens,  and for clients of crypto-asset service providers.  Also, businesses must have a policy for the identification, prevention, management and disclosure of conflicts of interest. </li>
+<li>	Prevent market abuse such as insider trading,  unlawful disclosure of inside information,  and market manipulation  by implementing monitoring systems and ensuring secure trading environments. </li>
+<li>	As part of the compliance process, the consensus mechanisms used for the validation of transactions in crypto-assets might have principal adverse impacts on the climate and other environment-related adverse impacts. Such consensus mechanisms should therefore deploy more environmentally-friendly solutions and ensure that any principal adverse impact that they might have on the climate, and any other environment-related adverse impact, are adequately identified and disclosed by issuers of crypto-assets and crypto-asset service providers. <br>
+
+How do organizations determine whether adverse impacts are principal? Regulation provides that accounts should be taken of the principle of proportionality and the size and volume of the crypto-asset issued. In addition, when providing portfolio management of crypto-assets, crypto-asset service providers should provide periodic statements to their clients, which should include a review of their activities and of the performance of the portfolio as well as an updated statement on the suitability assessment. </li>
+<li>Stay updated on regulatory developments from European Supervisory Authorities (EBA, ESMA) or NCAs and conduct regular operational audits to ensure ongoing compliance. </li>
+<li>As an advantage, businesses can leverage MiCA’s cross-border framework to operate seamlessly across EU Member States without additional regulatory approvals. </li>
+<li>Consult legal and regulatory experts to align your operations with MiCA’s requirements and navigate its complexities effectively. </li>
