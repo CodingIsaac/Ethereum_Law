@@ -44,4 +44,7 @@ This classification system ensures that the regulation appropriately addresses t
 
 <li><b>Central Bank Digital Currencies (CBDCs)</b></li>
 <p>Digital currencies that are issued and managed by central banks, acting in their monetary authority capacity, including central bank money in digital form, or crypto-assets issued by other public authorities, including central, regional and local administrations are also excluded by the regulation.</p>
+
+<li><b>Non-Transferable Assets:</b></li>
+<p> Digital assets that cannot be transferred to other holders or tokens limited to closed systems do not qualify as crypto-assets. Like loyalty points for a retailer or gaming tokens within a specific ecosystem, are also excluded.</p>
 </ol>
