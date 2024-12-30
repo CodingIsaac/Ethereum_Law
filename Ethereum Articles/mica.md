@@ -35,3 +35,10 @@ This article explores the scope, key compliance requirements, and the risks of n
 </ol>
 
 This classification system ensures that the regulation appropriately addresses the risks and functionalities associated with each type of crypto-asset, specifically apply rules and protections accordingly.
+
+<h2>What are the Crypto-Assets Exempted by MiCA</h2>
+<p>Despite its broad scope, MiCA excludes certain digital assets to focus on those with financial and economic implications:</p>
+<ol type="a">
+<li><b>Unique and Non-Fungible Tokens (NFTs)/ Non-Fungible Crypto-Assets (NFCAs):</b></li>
+<p> The regulation mentions two unique asset classes (NFTs and NFCAs), representing unique digital assets such as art or collectibles, product guarantees, or real estate.  These assets derive their value from their distinct characteristics and the utility they provide to the holder, making them unsuitable for fungible trading or direct financial comparisons. While they may be traded on marketplaces or held for speculative purposes, their unique nature limits their financial application and minimizes risks to holders and the broader financial system.</p>
+</ol>
