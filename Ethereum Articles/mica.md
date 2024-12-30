@@ -51,3 +51,27 @@ This classification system ensures that the regulation appropriately addresses t
 
 <h2>Who does MiCA apply to?</h2>
 <p>The MiCA regulation applies to different participants within the crypto-asset ecosystem, including both natural and legal persons’  directly or indirectly. These includes crypto-asset services such as custody, trading, issuance, and advisory functions, whether these are performed fully or partially in a decentralized manner.  The regulation also covers issuers of crypto-assets,  who create or manage tokens offered to the public or admitted to trading, as well as offerors and individuals facilitating trading on platforms.  It also applies to Crypto-Asset Service Providers (CASPs),  including entities handling exchange, transfer, custody, and advisory services.</p>
+
+<h2><b>Who should not worry about MiCA?</b></h2>
+<p>MiCA excludes certain entities and activities from its scope, and they are:</p>
+
+- Persons who provide internal crypto-asset services exclusively for their parent companies, subsidiaries, or related entities.
+- Insolvency officials acting during insolvency procedures (except as specified in Article 47). 
+- Central banks, such as the European Central Bank (ECB), other Member State central banks acting as monetary authorities, and public authorities. 
+- International and EU financial entities like the European Investment Bank and its subsidiaries, the European Financial Stability Facility, the European Stability Mechanism, and public international organizations.
+- Unique and non-fungible crypto-assets, such as digital art or collectibles that are not fungible with other crypto-assets.
+- Crypto-Assets Covered by Other EU Regulations:
+    <p>
+    <ol>
+        <li>Financial instruments </li>
+        <li>Deposits, including structured deposits.</li>
+        <li>Funds unless they qualify as e-money tokens.</li>
+        <li>Securitization positions as defined under Regulation (EU) 2017/2402.</li>
+        <li>Non-life or life insurance products and reinsurance contracts covered by Directive 2009/138/EC.</li>
+        <li>Pension products that provide retirement income under national law.</li>
+        <li>Officially recognized occupational pension schemes as defined in Directive (EU) 2016/2341 or Directive 2009/138/EC.</li>
+        <li>Individual pension products requiring employer contributions as mandated by national law.</li>
+        <li>Pan-European Personal Pension Products as defined in Regulation (EU) 2019/1238.</li>
+        <li>Social security schemes covered under Regulations (EC) No 883/2004 and (EC) No 987/2009.</li>
+    </p>
+    </ol>
