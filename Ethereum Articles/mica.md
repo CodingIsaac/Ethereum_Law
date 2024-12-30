@@ -93,3 +93,11 @@ How do organizations determine whether adverse impacts are principal? Regulation
 <li>Stay updated on regulatory developments from European Supervisory Authorities (EBA, ESMA) or NCAs and conduct regular operational audits to ensure ongoing compliance. </li>
 <li>As an advantage, businesses can leverage MiCA’s cross-border framework to operate seamlessly across EU Member States without additional regulatory approvals. </li>
 <li>Consult legal and regulatory experts to align your operations with MiCA’s requirements and navigate its complexities effectively. </li>
+
+<h2><b>What Risks will Organizations suffer for Non-Compliance?</b></h2>
+<p>Non-compliance with MiCA carries significant risks that can jeopardize a business’s operations, reputation, and market presence:</p>
+
+- The regulation provides different degrees of financial penalties that may be imposed by NCAs, with fines proportional to the entity’s revenue or transaction size/turnover according to their financial statement. 
+- Persistent violations can lead to operational bans, including suspension, loss of authorization, or prohibition from providing services in the EU. 
+- Member States are permitted in accordance with their national law to issue public statements on the nature of infringement, order such an entity to cease from conducting such infringements and levy fines at least twice the profits gained, or losses avoided.  As regulations offers fine of  maximum at least seven hundred thousand Euro or Five Million Euro (€700, 000  or €5,000,000 ) for Member States whose official currency is not the Euro. This disclosure can cause reputational damage, deterring investors, customers, and partners.
+- Failing to meet consumer protection standards can result in legal liabilities,  including claims or class-action lawsuits from affected clients and reserves must be available to service such claims.
